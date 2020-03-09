@@ -1,2 +1,2 @@
 language = "csharp"
-run = ""
+run = "csc pkn.cs ; mono pkn.exe"
